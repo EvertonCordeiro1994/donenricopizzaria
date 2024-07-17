@@ -189,7 +189,7 @@ p {
         flex-direction: column-reverse;
         justify-content: center;
         margin: auto;
-        width: 90%; /* Ajuste para um valor mais razoável */
+        width: 0%; 
         margin-top: 4.1rem;
     }
 
