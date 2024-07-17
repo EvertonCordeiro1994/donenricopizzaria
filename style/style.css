@@ -181,6 +181,7 @@ p {
     header {
         display: flex;
         justify-content: center;
+        height: 32px;
     }
 
     header > img {
